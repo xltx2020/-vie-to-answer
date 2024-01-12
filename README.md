@@ -20,7 +20,7 @@
 ```
 sudo su
 cd /var/www/
-git clone https://github.com/cyyself/vie-to-answer.git
+git clone https://github.com/xltx2020/-vie-to-answer.git
 apt install nginx php7.0-common php7.0-fpm php7.0-cli php7.0-json
 cd vie-to-answer
 mv src/* .
